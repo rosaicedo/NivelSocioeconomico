@@ -32,4 +32,4 @@ Estrato socioeconómico
 # Objetivo
 
 Hacer un modelo de clasificación para obtener el estrato socioeconómico de un hogar con base en la disponibilidad de la teconología y de esta manera
-tener un modelo sencillo de responder en una encuesta de opinión 
+tener un modelo sencillo de responder en una encuesta de opinión pública como por ejemplo la intención de voto.
