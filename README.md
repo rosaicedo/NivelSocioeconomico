@@ -5,7 +5,7 @@ Nivel socioeconómico de México usando variables de disposición de tecnología
 # Descripción
 
 Hice una selección de variables de la Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH) 2021
-Una es una muestra de 10,000 casos y otra es la base completa del cuestionario de hogares.
+con una muestra aleatoria de 10,000 casos del cuestionario de hogares.
 
 https://www.inegi.org.mx/programas/dutih/2021/#Datos_abiertos
 
@@ -29,3 +29,7 @@ Tamaño de la Localidad
 
 Estrato socioeconómico
 
+# Objetivo
+
+Hacer un modelo de clasificación para obtener el estrato socioeconómico de un hogar con base en la disponibilidad de la teconología y de esta manera
+tener un modelo sencillo de responder en una encuesta de opinión 
