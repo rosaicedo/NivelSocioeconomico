@@ -1,4 +1,4 @@
-﻿Pantalla_plana,Consola_videojuegos,Telefono_movil,Computadora_Escritorio,Laptop,Tablet,Internet_fijo,Cantidad_smartphones,Tamaño_localidad_donde_vive,Estrato_Socioeconomico
+﻿Pantalla_plana,Consola_videojuegos,Telefono_movil,Computadora_Escritorio,Laptop,Tablet,Internet_fijo,Cantidad_smartphones,localidad,Estrato_Socioeconomico
 No,No,Si,No,Si,No,No,1,entre 15 mil y 99 mil,Medio alto
 Si,Si,Si,No,No,No,Si,3,100 mil y mas,Medio alto
 No,No,Si,No,Si,Si,Si,1,2 500 a 1menos de 2 500 999,Medio bajo
